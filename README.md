@@ -15,3 +15,5 @@ A simple personal resume portfolio built with HTML and CSS.
 Email: pkwexi@gmail.com  
 Phone: 0209949562  
 Location: Mankessim, Ghana
+#Project-URL
+https://roadmap.sh/projects/single-page-cv
