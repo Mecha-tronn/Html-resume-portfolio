@@ -3,7 +3,7 @@
 A simple personal resume portfolio built with HTML and CSS.
 
 ## 🌐 Live Demo  
-[Click here to view](https://Mecha-tronn.github.io/html-resume-portfolio/)
+[Click here to view](https://Mecha-tronn.github.io/Html-resume-portfolio/)
 
 ## 🧰 How to Run Locally  
 - Download ZIP or clone the repo  
