@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Arial", "Sans-serif";
+}
+
+.headline{
+    margin: 40px;
+}
+
+.rectangle {
+    width: 80%;
+    height: 200vh;
+    border: 3px solid #000;
+    background-color: #ffffff;
+    margin: 30px auto;
+    padding-left: 20px;
+}
+
+h3{
+    font-weight: 200;
+}
+
+h3,h4, .Name, .position,.skills,.Experience,.Links, .Education{
+    margin-left: 40px;
+}
+
+.Name {
+    font-size: 2.2em;
+    color: #000000;
+}
+
+.position {
+    font-size: 1.2rem;
+    color:  rgb(4, 172, 4);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.skills {
+    font-size: 1.2rem;
+    color:  rgb(4, 172, 4);
+    padding-top: 28px;
+    padding-bottom: 10px;
+}
+
+.Education {
+    font-size: 1.2rem;
+    color:  rgb(4, 172, 4);
+    padding-top: 28px;
+    padding-bottom: 10px;
+}
+
+.dex{
+    color: rgba(28, 28, 255, 0.974);
+}
+
+ul{
+    margin-left: 80px;
+    padding-top: 10px;
+}
+
+.Experience {
+    font-size: 1.2rem;
+    color:  rgb(4, 172, 4);
+    padding-top: 45px;
+    padding-bottom: 10px;
+}
+
+.Links{
+    font-size: 1.2rem;
+    color:  rgb(4, 172, 4);
+    padding-top: 45px;
+    padding-bottom: 10px;
+}
+
+.Links a {
+    text-decoration: none;
+}
+
+h4{
+    margin-top: 20px;
+    text-decoration: none;
+}
